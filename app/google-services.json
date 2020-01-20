@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135131716418",
+    "firebase_url": "https://cochat1.firebaseio.com",
+    "project_id": "cochat1",
+    "storage_bucket": "cochat1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135131716418:android:739673e7fc7a66f3cb06db",
+        "android_client_info": {
+          "package_name": "com.hfa.cochat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135131716418-nbsdrjtei0ovstnk4mi8mchal74mnmnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfa.cochat1",
+            "certificate_hash": "223bade8ad826b895bfffab13c380a25b0fd7a3a"
+          }
+        },
+        {
+          "client_id": "135131716418-67103qjo876ih2h40g9urcn7apf7rg2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7DhY1k3DR1hp7aMJkYzmccRmel2JXrDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135131716418-67103qjo876ih2h40g9urcn7apf7rg2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
